@@ -1,0 +1,97 @@
+{
+  "showLegend": true,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": false,
+    "MoveupOrMovedown": false,
+    "OpenAttributeTable": false,
+    "DescriptionOrShowItemDetailsOrDownload": false
+  },
+  "layerOptions": {
+    "AED_1986": {
+      "display": true
+    },
+    "CK_bike_7626": {
+      "display": true
+    },
+    "Person_light_645": {
+      "display": true
+    },
+    "Telephone_708": {
+      "display": true
+    },
+    "Toilet_6500": {
+      "display": true
+    },
+    "Trashcan_6857": {
+      "display": true
+    },
+    "路燈_7761": {
+      "display": true
+    },
+    "獨立樹_2798": {
+      "display": true
+    },
+    "Tour_2208": {
+      "display": true
+    },
+    "亭_253": {
+      "display": true
+    },
+    "停車場點位_6129": {
+      "display": true
+    },
+    "Building_6560": {
+      "display": false
+    },
+    "陰影_3686": {
+      "display": false
+    },
+    "圍牆_9703": {
+      "display": false
+    },
+    "littleroad_8418": {
+      "display": false
+    },
+    "人行道_6481": {
+      "display": false
+    },
+    "分隔島_4319": {
+      "display": false
+    },
+    "道路_6178": {
+      "display": false
+    },
+    "圃_3483": {
+      "display": false
+    },
+    "草地_8451": {
+      "display": false
+    },
+    "樓梯_1628": {
+      "display": false
+    },
+    "停車場_8710": {
+      "display": false
+    },
+    "古蹟_2857": {
+      "display": false
+    },
+    "小橋_8806": {
+      "display": false
+    },
+    "水系_3896": {
+      "display": false
+    },
+    "細草地_1223": {
+      "display": false
+    },
+    "榕園_3759": {
+      "display": false
+    },
+    "Zone_6320": {
+      "display": false
+    }
+  }
+}

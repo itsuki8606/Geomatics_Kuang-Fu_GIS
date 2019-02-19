@@ -1,0 +1,28 @@
+{
+  "routeTaskUrl": "https://utility.arcgis.com/usrsvcs/servers/926600849a6b4ffd8a421e8a616aeab3/rest/services/World/Route/NAServer/Route_World",
+  "travelModesUrl": "https://utility.arcgis.com/usrsvcs/servers/f58248032e974d6e9832b72ef608d679/rest/services/World/Utilities/GPServer",
+  "trafficLayerUrl": "",
+  "routeOptions": {
+    "directionsLanguage": "zh-tw",
+    "directionsLengthUnits": "esriKilometers",
+    "directionsOutputType": "standard",
+    "impedanceAttribute": ""
+  },
+  "geocoderOptions": {
+    "autoComplete": true,
+    "maxLocations": 6,
+    "minCharacters": 3,
+    "searchDelay": 350,
+    "arcgisGeocoder": false,
+    "geocoders": [
+      {
+        "url": "http://utility.arcgis.com/usrsvcs/servers/cc90d84c5d484dc187eec6451f184a9b/rest/services/World/GeocodeServer",
+        "placeholder": "尋找位址或地點"
+      }
+    ]
+  },
+  "defaultLocations": [
+    "",
+    ""
+  ]
+}

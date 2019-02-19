@@ -1,0 +1,183 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "layerId": "停車場點位_6129",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/停車場點位/FeatureServer/0",
+      "name": "停車場",
+      "placeholder": "",
+      "searchFields": [
+        "MarkName"
+      ],
+      "displayField": "MarkName",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "亭_253",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/亭/FeatureServer/0",
+      "name": "涼亭",
+      "placeholder": "",
+      "searchFields": [
+        "Name"
+      ],
+      "displayField": "Name",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "Tree_2650",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/Tree/FeatureServer/0",
+      "name": "樹",
+      "placeholder": "",
+      "searchFields": [
+        "Name"
+      ],
+      "displayField": "Name",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "Building_6560",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/Building/FeatureServer/0",
+      "name": "建物",
+      "placeholder": "",
+      "searchFields": [
+        "Build_Name",
+        "Build_Dep"
+      ],
+      "displayField": "Build_Name",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "Tour_2208",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/Tour/FeatureServer/0",
+      "name": "景點",
+      "placeholder": "",
+      "searchFields": [
+        "Name"
+      ],
+      "displayField": "Name",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "Trashcan_6857",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/Trashcan/FeatureServer/0",
+      "name": "垃圾桶",
+      "placeholder": "",
+      "searchFields": [
+        "Type"
+      ],
+      "displayField": "Type",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "Toilet_6500",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/Toilet/FeatureServer/0",
+      "name": "廁所",
+      "placeholder": "",
+      "searchFields": [
+        "Type"
+      ],
+      "displayField": "Type",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "Telephone_708",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/Telephone/FeatureServer/0",
+      "name": "緊急電話",
+      "placeholder": "",
+      "searchFields": [
+        "Type"
+      ],
+      "displayField": "Type",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "Person_light_645",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/Person_light/FeatureServer/0",
+      "name": "行人號誌燈",
+      "placeholder": "",
+      "searchFields": [
+        "Type"
+      ],
+      "displayField": "Type",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "CK_bike_7626",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/CK_bike/FeatureServer/0",
+      "name": "CK Bike 租借站",
+      "placeholder": "",
+      "searchFields": [
+        "Type"
+      ],
+      "displayField": "Type",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "AED_1986",
+      "url": "https://services5.arcgis.com/TDWyvSTBP0HI6kOO/arcgis/rest/services/AED/FeatureServer/0",
+      "name": "AED自動體外心臟電擊去顫器",
+      "placeholder": "",
+      "searchFields": [
+        "Type"
+      ],
+      "displayField": "Type",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    }
+  ]
+}
