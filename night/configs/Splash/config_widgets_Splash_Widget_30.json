@@ -1,6 +1,6 @@
 {
   "splash": {
-    "splashContent": "<br /><br /><div style=\"text-align: center;\">\n<img align=\"center\" height=\"200\" src=\"https://geomatics-ncku107.lionfree.net/images/Geo.png\" /><br /><br />\n<font face=\"微軟正黑體\" size=\"6\">歡迎使用成功大學光復校區校園導覽系統！( ･ω･)ﾉ<br /></font>\n<font face=\"微軟正黑體\"><font size=\"4\">初次使用者請點選螢幕下方功能介紹按鈕 <img align=\"center\" height=\"22\" src=\"https://geomatics-ncku107.lionfree.net/images/About_small.png\" width=\"22\" />，以查看本系統可使用之功能！</font><br /><br /><br /><br /></font>\n</div><div style=\"text-align: right;\"><font face=\"微軟正黑體\" size=\"3\">Copyright </font><font face=\"微軟正黑體\"><font size=\"3\">©成功大學測量及空間資訊學系總實習A組</font><br /></font></div>",
+    "splashContent": "<br /><br /><div style=\"text-align: center;\">\n<img align=\"center\" height=\"200\" src=\"https://raw.githubusercontent.com/itsuki8606/Geomatics_Kuang-Fu_GIS/master/images/Geo.png\" /><br /><br />\n<font face=\"微軟正黑體\" size=\"6\">歡迎使用成功大學光復校區校園導覽系統！( ･ω･)ﾉ<br /></font>\n<font face=\"微軟正黑體\"><font size=\"4\">初次使用者請點選螢幕下方功能介紹按鈕 <img align=\"center\" height=\"22\" src=\"https://raw.githubusercontent.com/itsuki8606/Geomatics_Kuang-Fu_GIS/master/images/About_small.png\" width=\"22\" />，以查看本系統可使用之功能！</font><br /><br /><br /><br /></font>\n</div><div style=\"text-align: right;\"><font face=\"微軟正黑體\" size=\"3\">Copyright </font><font face=\"微軟正黑體\"><font size=\"3\">©成功大學測量及空間資訊學系總實習A組</font><br /></font></div>",
     "requireConfirm": false,
     "confirm": {
       "text": "",
